@@ -5,7 +5,8 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Muchos de los temas ya los conocía debido que previamente he hecho cursos de full stack. Muy bien y sencillamente explicado.
+        Con respecto a la tarea ya he bajado todos los programas y he vinculado mi Github. 
       </a>
     </td>
   </tr>
